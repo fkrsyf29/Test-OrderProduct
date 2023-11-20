@@ -6,7 +6,7 @@ Set Startup Project menjadi Multiple Startup projects seperti diatas
 
 AuthApi = Start without Debugging
 
-ShoeApi = Start without Debugging
+OrderApi = Start without Debugging
 
 OcelotGateway = Start
 
